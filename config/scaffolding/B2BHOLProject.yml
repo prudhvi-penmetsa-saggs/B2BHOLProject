@@ -93,7 +93,7 @@ configurationVariables:
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.TaxDatabase.connectionSettings.otherProperties
   : loginTimeout=60;
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.TaxDatabase.connectionSettings.driverType
-  : mysql8033
+  : mysql8033_1
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionEnabled
   : "false"
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.TaxDatabase.connectionSettings.serverName
