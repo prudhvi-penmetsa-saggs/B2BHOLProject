@@ -63,7 +63,7 @@ configurationVariables:
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionManagerSettings.maximumPoolSize
   : "10"
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.TaxDatabase.connectionSettings.serverName
-  : mysql
+  : 54.226.153.235
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.TaxDatabase.connectionManagerSettings.startupBackoffSecs
   : "10"
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionSettings.driverType
