@@ -19,6 +19,14 @@ services:
   packages:
   - name: B2BHOLProject
     version: "1.0"
+- serviceName: pub.math:multiplyFloats
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2028
+- serviceName: pub.math:divideFloats
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2028
 configurationVariables:
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_1.connectionManagerSettings.startupBackoffSecs
   : "10"
