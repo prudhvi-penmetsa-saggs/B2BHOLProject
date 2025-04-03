@@ -11,14 +11,6 @@ packages:
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
 services:
-- serviceName: project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:Database_1
-  packages:
-  - name: B2BHOLProject
-    version: "1.0"
-- serviceName: project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:TaxDatabase
-  packages:
-  - name: B2BHOLProject
-    version: "1.0"
 - serviceName: project.b2bhol.integrations:calculateTax
   packages:
   - name: B2BHOLProject
