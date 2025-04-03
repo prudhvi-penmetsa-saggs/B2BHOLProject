@@ -26,9 +26,8 @@
           </record>
           <value name="is_public">false</value>
           <value name="field_name">amount</value>
-          <value name="field_type">object</value>
+          <value name="field_type">string</value>
           <value name="field_dim">0</value>
-          <value name="wrapper_type">java.lang.Integer</value>
           <value name="nillable">true</value>
           <value name="form_qualified">false</value>
           <value name="is_global">false</value>
@@ -135,7 +134,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">prudhvi.penmetsa@ibm.com</value>
-    <value name="lastModifiedDate">1743711207739</value>
+    <value name="lastModifiedDate">1743711347507</value>
     <value name="displayName">calculateTax</value>
     <value name="description"></value>
     <array name="appList" type="record" depth="1">
