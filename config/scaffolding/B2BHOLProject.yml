@@ -8,6 +8,7 @@ packages:
   gitUsername: prudhvi-penmetsa-saggs
   gitBranch: main
 - name: WmJDBCAdapter
+  version: 10.3.0.0.34
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
 services:
@@ -89,7 +90,7 @@ configurationVariables:
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_TaxDB.connectionSettings.serverName
   : 107.22.86.181
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_TaxDB.connectionEnabled
-  : "false"
+  : "true"
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_TaxDB.connectionSettings.otherProperties
   : loginTimeout=60;
   ? artConnection.B2BHOLProject.project.b2bhol.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections.Database_TaxDB.connectionManagerSettings.poolIncrementSize
